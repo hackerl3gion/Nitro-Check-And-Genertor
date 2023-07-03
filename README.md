@@ -7,7 +7,7 @@ DIscord Nitro gen,check by l3gion
 
 This tool is only made for educational purposes... 
 
-#Is Nitro Gen is possible?
+# Is Nitro Gen is possible?
 
 I think the brute force attack for discord nitro is impossible to crack.... 
 I run a local test on my computer making valid list of 70,000 codes and brute force them from another software I checked 300,000+ codes but 0 match the valid code
